@@ -10,8 +10,8 @@
             <span class="relative block w-full z-10">MoneyMizer</span>
         </h1>
         <p class="mt-6 text-lg leading-8 text-gray-600">
-            A tool to help me (and maybe you) to easily manage my expenses and be on budget.
-            You don't need expensive/complicate tools to just be on budget with your expenses,
+            A tool to help you (and me) to easily manage your expenses and be on budget.
+            You don't need expensive/complicate tools to just be on budget,
             that's why I create <strong>MoneyMizer</strong> to be completely <strong class="text-[1.3em] text-indigo-600 drop-shadow">FREE!</strong>.</p>
         <div class="mt-10 flex items-center justify-center gap-x-6">
             <a href="#" class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Get started</a>
